@@ -8,7 +8,7 @@ example()
 Func example()
 	; Make sure we can use IDM
 	If $IDM_Init_Status Then
-		Local $sURL, $sLocalPath, $sLocalFileName, $sFlags
+		Local $sURL, $sLocalPath, $sLocalFileName, $iFlags
 		$sURL = 'http://www.internetdownloadmanager.com/trans_kit.zip'
 		$sLocalPath = @ScriptDir
 		$sLocalFileName = 'test.zip'
