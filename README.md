@@ -3,7 +3,7 @@ Internet Download Manager - IDM UDF for AutoIt Script.
 
 ## Screenshot
 
-![AutoIt IDM UDF](http://i.imgur.com/fDKka6V.png)
+![AutoIt IDM UDF](http://i.imgur.com/76lAePP.png)
 
 ## Usage
 
