@@ -15,8 +15,8 @@ Func example()
 
 		; 1 - do not show any confirmations dialogs;
 		; 2 - add to queue only, do not start downloading.
-		$sFlags = 2
+		$iFlags = 2
 
-		_IDM_SendLink($sURL, $sLocalPath, $sLocalFileName, $sFlags)
+		_IDM_SendLink($sURL, $sLocalPath, $sLocalFileName, $iFlags)
 	EndIf
 EndFunc   ;==>example

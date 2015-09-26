@@ -11,6 +11,10 @@ Internet Download Manager - IDM UDF for AutoIt Script.
 2. Unzip and copy **IDM.au3** file into the Include folder (C:\Program Files\AutoIt3\Include).
 3. Add `#Include <IDM.au3>` in your AutoIt script.
 4. Call the `_IDM_SendLink()` function in anywhere you want!
+ 
+## Example
+
+See [Example.au3](Example.au3)
 
 ## Contributing
 
